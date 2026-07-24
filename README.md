@@ -4,3 +4,4 @@
 - actualfullscreen
 - restartsig
 - swallow
+- scratchpads
