@@ -1,4 +1,4 @@
-#Cayden's build of dwm
+# Cayden's build of dwm
 
 ## Patches
 - actualfullscreen
