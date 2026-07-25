@@ -6,3 +6,4 @@
 - swallow
 - scratchpads
 - attachdirection
+- sticky
