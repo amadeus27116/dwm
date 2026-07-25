@@ -2,6 +2,7 @@
 
 ## Patches
 - actualfullscreen
+- preventfocusshift
 - restartsig
 - swallow
 - scratchpads
