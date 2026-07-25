@@ -1,10 +1,11 @@
 # Cayden's build of dwm
 
 ## Patches
+- coolautostart
+- restartsig
 - actualfullscreen
 - preventfocusshift
-- restartsig
-- swallow
-- scratchpads
 - attachdirection
 - sticky
+- swallow
+- scratchpads
