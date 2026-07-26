@@ -6,6 +6,7 @@
 - actualfullscreen
 - preventfocusshift
 - attachdirection
+- stacker
 - sticky
 - swallow
 - scratchpads
