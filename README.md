@@ -13,3 +13,4 @@
 - hide vacant tags
 - underline tags
 - vanity gaps + cfacts
+- cyclelayouts
