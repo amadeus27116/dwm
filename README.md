@@ -10,3 +10,5 @@
 - sticky
 - swallow
 - scratchpads
+- hide vacant tags
+- underline tags
